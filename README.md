@@ -11,6 +11,7 @@ Run the platformio command to init.
 ## Set your COM Port
 
 Set in the platformio.ini file the following entty
+
           upload_port = /dev/ttyUSB0
 
 ## Upload code
